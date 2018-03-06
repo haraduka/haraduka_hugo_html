@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Kento Kawaharazuka</title>
+    <link>https://haraduka.github.io/home/</link>
+    <description>Recent content in Homes on Kento Kawaharazuka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kento Kawaharazuka</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
