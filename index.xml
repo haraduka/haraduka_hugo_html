@@ -11,6 +11,69 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>筋骨格ヒューマノイドにおける身体組織の柔軟性による筋経路変化を考慮した逐次的自己身体像の獲得</title>
+      <link>https://haraduka.github.io/reviewed_domestic/robosym2017-selfbodyimage/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/reviewed_domestic/robosym2017-selfbodyimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning of Joint-Muscle Mapping Using Vision in Tendon-Driven Musculoskeletal Humanoids</title>
+      <link>https://haraduka.github.io/journal/ral2018-vision/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/journal/ral2018-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mimetic forearm design with radioulnar joint using miniature bone-muscle modules and its applications</title>
+      <link>https://haraduka.github.io/reviewed_conference/iros2017-forearm/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/reviewed_conference/iros2017-forearm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Power, Flexible, Robust Hand: Development of Musculoskeletal Hand Using Machined Springs and Realization of Self-Weight Supporting Motion with Humanoid</title>
+      <link>https://haraduka.github.io/reviewed_conference/iros2017-hand/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/reviewed_conference/iros2017-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>筋骨格ヒューマノイドにおける視覚を利用した関節-筋空間マップの逐次的再学習</title>
+      <link>https://haraduka.github.io/domestic/rsj2017-vision/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/rsj2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antagonist Inhibition Control in Redundant Tendon-driven Structures Based on Human Reciprocal Innervation for Wide Range Limb Motion of Musculoskeletal Humanoids</title>
+      <link>https://haraduka.github.io/journal/ral2017-antagonist/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/journal/ral2017-antagonist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計</title>
+      <link>https://haraduka.github.io/domestic/robomech2017-forearm/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/robomech2017-forearm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://haraduka.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -803,16 +866,6 @@ Here&#39;s some important information...
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://haraduka.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://haraduka.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Migrate from Jekyll to Hugo</title>
       <link>https://haraduka.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
@@ -853,16 +906,6 @@ With Jekyll, something that looked like&lt;/p&gt;
 &lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
 
 &lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://haraduka.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://haraduka.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

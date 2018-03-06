@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domestics on Kento Kawaharazuka</title>
+    <link>https://haraduka.github.io/domestic/</link>
+    <description>Recent content in Domestics on Kento Kawaharazuka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kento Kawaharazuka</copyright>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/domestic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>筋骨格ヒューマノイドにおける視覚を利用した関節-筋空間マップの逐次的再学習</title>
+      <link>https://haraduka.github.io/domestic/rsj2017-vision/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/rsj2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計</title>
+      <link>https://haraduka.github.io/domestic/robomech2017-forearm/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/robomech2017-forearm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

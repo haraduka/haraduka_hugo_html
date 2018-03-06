@@ -7,17 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kento Kawaharazuka</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://haraduka.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>筋骨格ヒューマノイドにおける身体組織の柔軟性による筋経路変化を考慮した逐次的自己身体像の獲得</title>
+      <link>https://haraduka.github.io/reviewed_domestic/robosym2017-selfbodyimage/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://haraduka.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://haraduka.github.io/reviewed_domestic/robosym2017-selfbodyimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mimetic forearm design with radioulnar joint using miniature bone-muscle modules and its applications</title>
+      <link>https://haraduka.github.io/reviewed_conference/iros2017-forearm/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/reviewed_conference/iros2017-forearm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Power, Flexible, Robust Hand: Development of Musculoskeletal Hand Using Machined Springs and Realization of Self-Weight Supporting Motion with Humanoid</title>
+      <link>https://haraduka.github.io/reviewed_conference/iros2017-hand/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/reviewed_conference/iros2017-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>筋骨格ヒューマノイドにおける視覚を利用した関節-筋空間マップの逐次的再学習</title>
+      <link>https://haraduka.github.io/domestic/rsj2017-vision/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/rsj2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計</title>
+      <link>https://haraduka.github.io/domestic/robomech2017-forearm/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/robomech2017-forearm/</guid>
+      <description></description>
     </item>
     
   </channel>
