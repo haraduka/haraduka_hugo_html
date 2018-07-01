@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kento Kawaharazuka</copyright>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計</title>
+      <link>https://haraduka.github.io/domestic/robomech2018-musashilarm/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://haraduka.github.io/domestic/robomech2018-musashilarm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>筋骨格ヒューマノイドにおける身体組織の柔軟性による筋経路変化を考慮した逐次的自己身体像の獲得</title>
@@ -47,7 +56,7 @@
     </item>
     
     <item>
-      <title>擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計</title>
+      <title>骨構造一体小型筋モジュールにより構成された橈骨尺骨構造を有する前腕部の設計</title>
       <link>https://haraduka.github.io/domestic/robomech2017-forearm/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
